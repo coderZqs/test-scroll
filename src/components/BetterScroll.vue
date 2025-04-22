@@ -25,7 +25,7 @@ const initScroll = () => {
     pullUpLoad: true,
     autoPullUpLoad: true,
     // click: true,
-    preventDefault: false,
+    // preventDefault: false,
     pullDownRefresh: {
       threshold: THRESHOLD,
       stop: STOP,
